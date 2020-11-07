@@ -1,0 +1,57 @@
+/*Selector {
+	Property: value;
+}*/
+
+body{
+	background-image: url(https://cdn.discordapp.com/attachments/763204465872207893/773668800922648596/free.jpg);
+	background-size: cover;
+}
+
+.Hovers:hover {
+	color: black;
+        cursor: crosshair;
+	text-align: center;
+	font-size: xx-large;
+	border: 5px solid red;
+}
+
+.Hovers {
+	color: black;
+	text-align: center;
+	font-size: xx-large;
+}
+
+.Paragraph1 {
+	font-size: large;
+	text-align: center;
+	cursor: zoom-in;
+	color: white
+}
+
+.Inviters:hover {
+	color: white;
+	border: 5px solid black;
+}
+
+.Register:hover {
+	color: white;
+	border: 5px solid black
+}
+
+.Acesters1:hover {
+	cursor: copy;
+}
+
+.ChillRallyBot {
+	cursor: cell;
+}
+
+}
+
+.yap {
+	color: red;
+}
+
+.yap:hover {
+	color: red
+}
